@@ -2,11 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-html,
-body {
-  background-color: #111;
-}
-
 @layer utilities {
   /* css config */
 }
