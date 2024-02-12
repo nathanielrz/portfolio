@@ -87,7 +87,7 @@ export default function Home() {
                   d="M480 32l-64 368-223.3 80L0 400l19.6-94.8h82l-8 40.6L210 390.2l134.1-44.4 18.8-97.1H29.5l16-82h333.7l10.5-52.7H56.3l16.3-82H480z"
                 />
               </svg>
-              CSS 😩 <span className="text-zinc-500">75%</span>
+              CSS <span className="text-zinc-500">75%</span>
             </p>
             <div className="w-60 h-5 bg-slate-300 rounded-xl overflow-hidden">
               <div className="w-3/4 h-full bg-emerald-400"></div>
