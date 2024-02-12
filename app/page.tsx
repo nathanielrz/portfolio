@@ -180,7 +180,7 @@ export default function Home() {
         <p className="mt-6 text-sm">Some of my projects: </p>
         <div className="flex items-center justify-center gap-2">
           <a href="https://github.com/nathanielrz/console-os" target="_blank">
-            <div className="bg-zinc-900 rounded-xl p-4 mt-2 inline-block w-80">
+            <div className="bg-zinc-900 rounded-xl p-4 mt-2 inline-block w-80 hover:scale-95 hover:bg-zinc-800 transition ease-in-out duration-150">
               <p className="font-bold text-lg mb-2">Console OS</p>
               <p className="text-sm text-zinc-400 w-60 inline-block text-left">
                 A console-based operating system created in Python.
@@ -188,13 +188,13 @@ export default function Home() {
             </div>
           </a>
           <a href="https://vexon.games" target="_blank">
-            <div className="bg-zinc-900 rounded-xl p-4 mt-2 inline-block w-80">
+            <div className="bg-zinc-900 rounded-xl p-4 mt-2 inline-block w-80 hover:scale-95 hover:bg-zinc-800 transition ease-in-out duration-150">
               <p className="font-bold text-lg mb-2">
                 <Image
                   src="https://vexon.games/logo.svg"
                   alt="logo"
-                  width={20}
-                  height={20}
+                  width={25}
+                  height={25}
                   className="align-middle inline-block"
                 ></Image>{" "}
                 VexonGames
