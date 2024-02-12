@@ -161,6 +161,48 @@ export default function Home() {
               </svg>
             </button>
           </a>
+          <a
+            href="https://stackoverflow.com/users/22692600/nathaniel"
+            target="_blank"
+          >
+            <button className="bg-zinc-900 rounded-xl p-2 transition hover:scale-105 hover:bg-zinc-800">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 384 512"
+                height={25}
+                width={25}
+              >
+                <path
+                  fill="#fff"
+                  d="M290.7 311L95 269.7 86.8 309l195.7 41zm51-87L188.2 95.7l-25.5 30.8 153.5 128.3zm-31.2 39.7L129.2 179l-16.7 36.5L293.7 300zM262 32l-32 24 119.3 160.3 32-24zm20.5 328h-200v39.7h200zm39.7 80H42.7V320h-40v160h359.5V320h-40z"
+                />
+              </svg>
+            </button>
+          </a>
+          <a href="https://replit.com/@nathanielrz" target="_blank">
+            <button className="bg-zinc-900 rounded-xl p-2 transition hover:scale-105 hover:bg-zinc-800">
+              <svg
+                width={25}
+                height={25}
+                viewBox="0 0 32 32"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M7 5.5C7 4.67157 7.67157 4 8.5 4H15.5C16.3284 4 17 4.67157 17 5.5V12H8.5C7.67157 12 7 11.3284 7 10.5V5.5Z"
+                  fill="#fff"
+                ></path>
+                <path
+                  d="M17 12H25.5C26.3284 12 27 12.6716 27 13.5V18.5C27 19.3284 26.3284 20 25.5 20H17V12Z"
+                  fill="#fff"
+                ></path>
+                <path
+                  d="M7 21.5C7 20.6716 7.67157 20 8.5 20H17V26.5C17 27.3284 16.3284 28 15.5 28H8.5C7.67157 28 7 27.3284 7 26.5V21.5Z"
+                  fill="#fff"
+                ></path>
+              </svg>
+            </button>
+          </a>
           <a href="https://dsc.gg/vexongames" target="_blank">
             <button className="bg-zinc-900 rounded-xl p-2 transition hover:scale-105 hover:bg-zinc-800">
               <svg
