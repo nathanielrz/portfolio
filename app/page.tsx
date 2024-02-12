@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="flex min-h-screen items-center justify-center p-24">
+    <main className="flex items-center justify-center min-h-screen text-center text-white bg-neutral-950">
       <div>
         <h1 className="font-bold text-2xl hover:scale-105 hover:underline transition cursor-pointer mb-10">
           Nathaniel's Portfolio
