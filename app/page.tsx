@@ -9,7 +9,7 @@ export default function Home() {
             Nathaniel's Portfolio
           </h1>
           <p className="mb-2 text-sm">A few of my programming skills: </p>
-          <div className="bg-zinc-900 rounded-xl p-10 text-left grid gap-3 grid-rows-3 grid-cols-3">
+          <div className="bg-zinc-900 rounded-xl p-10 text-left grid gap-3 grid-rows-3 grid-cols-2">
             <div>
               <p className="text-sm p-2 flex gap-1">
                 <svg
@@ -119,14 +119,6 @@ export default function Home() {
               </p>
               <div className="w-60 h-5 bg-slate-300 rounded-xl overflow-hidden">
                 <div className="w-2/6 h-full bg-emerald-400"></div>
-              </div>
-            </div>
-            <div>
-              <p className="text-sm p-2">
-                C++ <span className="text-zinc-500">17%</span>
-              </p>
-              <div className="w-60 h-5 bg-slate-300 rounded-xl overflow-hidden">
-                <div className="w-1/6 h-full bg-emerald-400"></div>
               </div>
             </div>
           </div>
