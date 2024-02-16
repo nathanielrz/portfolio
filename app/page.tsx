@@ -9,7 +9,7 @@ export default function Home() {
             Nathaniel's Portfolio
           </h1>
           <p className="mb-2 text-sm">A few of my programming skills: </p>
-          <div className="bg-zinc-900 rounded-xl p-10 text-left grid gap-3 grid-rows-3 grid-cols-2">
+          <div className="bg-zinc-900 rounded-xl p-10 text-left grid gap-3 grid-rows-2 grid-cols-3">
             <div>
               <p className="text-sm p-2 flex gap-1">
                 <svg
