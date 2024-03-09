@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      <main className="flex items-center justify-center min-h-screen p-24 text-center text-white bg-neutral-950">
+      <main className="flex items-center justify-center min-h-screen p-24 text-center text-white bg-gradient-to-b from-[#151515] to-[#111]">
         <div>
           <h1 className="font-bold text-2xl hover:scale-105 hover:underline transition cursor-pointer mb-10 inline-block">
             Nathaniel's Portfolio
