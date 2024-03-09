@@ -14,8 +14,8 @@ export default function Navbar() {
   return (
     <nav
       className={`fixed top-0 left-0 w-screen h-16 ${
-        backdrop ? "backdrop-blur-md bg-[rgba(255,255,255,0.05)] drop-shadow-2xl" : ""
-      } text-center text-white text-base z-10 flex justify-center items-center transition-all ease-in-out delay-0 duration-150`}
+        backdrop ? "backdrop-blur-2xl bg-[rgba(72,107,142,0.2)] drop-shadow-2xl" : ""
+      } text-center text-white text-base z-10 flex justify-center items-center transition-all ease-in-out delay-0 duration-300`}
     >
       <div className="flex justify-between items-center w-[90%]">
         <div>
