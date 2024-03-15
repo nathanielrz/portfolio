@@ -122,56 +122,15 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="grid grid-rows-2 grid-cols-3 items-center justify-center gap-x-2 gap-y-1">
-            <a href="https://github.com/nathanielrz/console-os" target="_blank">
-              <div className="bg-zinc-900 rounded-xl p-4 inline-block w-80 hover:scale-95 hover:bg-zinc-800 transition ease-in-out duration-150">
-                <p className="font-bold text-lg mb-2">Console OS</p>
-                <p className="text-sm text-zinc-400 w-60 inline-block text-left">
-                  A console-based operating system created in Python.
-                </p>
-              </div>
-            </a>
-            <a href="https://vexon.games" target="_blank">
-              <div className="bg-zinc-900 rounded-xl p-4 inline-block w-80 hover:scale-95 hover:bg-zinc-800 transition ease-in-out duration-150">
-                <p className="font-bold text-lg mb-2">VexonGames</p>
-                <p className="text-sm text-zinc-400 w-60 inline-block text-left">
-                  A free-to-play online game website available to everyone in
-                  every countr...
-                </p>
-              </div>
-            </a>
-            <a
-              href="https://github.com/nathanielrz/calculator-in-react"
-              target="_blank"
-            >
-              <div className="bg-zinc-900 rounded-xl p-4 inline-block w-80 hover:scale-95 hover:bg-zinc-800 transition ease-in-out duration-150">
-                <p className="font-bold text-lg mb-2">Calculator in React</p>
-                <p className="text-sm text-zinc-400 w-60 inline-block text-left">
-                  A remake of apple's calculator in react - contributions are
-                  appreciated
-                </p>
-              </div>
-            </a>
-            <a
-              href="https://github.com/nathanielrz/discord-profile-status"
-              target="_blank"
-            >
-              <div className="bg-zinc-900 rounded-xl p-4 inline-block w-80 hover:scale-95 hover:bg-zinc-800 transition ease-in-out duration-150">
-                <p className="font-bold text-lg mb-2">Discord Profile Status</p>
-                <p className="text-sm text-zinc-400 w-60 inline-block text-left">
-                  A react package for using Discord's profile picture and
-                  statuses in your websites
-                </p>
-              </div>
-            </a>
-          </div>
         </div>
       </main>
       {/*Footer*/}
       <footer className="bg-zinc-900 w-full text-white p-6 relative">
         <div className="flex gap-44 justify-center items-center">
           <div>
-            <p className="text-sm text-[#bbb]">Developed and Designed by Nathaniel using Tailwind CSS</p>
+            <p className="text-sm text-[#bbb]">
+              Developed and Designed by Nathaniel using Tailwind CSS
+            </p>
           </div>
           <div>
             <div className="flex gap-3 items-center justify-center">
